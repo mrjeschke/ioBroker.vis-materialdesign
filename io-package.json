@@ -299,9 +299,7 @@
         "connectionType": "local",
         "dataSource": "push",
         "dependencies": [
-            {
                 "vis-2"
-            }
         ]
     },
     "native": {
